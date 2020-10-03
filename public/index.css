@@ -35,6 +35,13 @@ img {
     border-radius: 20px;
 }
 
+.img:hover{
+    padding-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    height: 300px;
+}
+
 .restaurants-item-name {
     padding-left: 10px;
     padding-top: 1px;
