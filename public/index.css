@@ -1,0 +1,47 @@
+body {
+    margin: 0 125px;
+}
+
+h1 {
+    font-family: 'Prompt', sans-serif;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-bottom: 0;
+}
+
+.flex-container {
+    padding: 0;
+    padding-left: 10px;
+    list-style: none;
+    display: flex;
+}
+
+.wrap    { 
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}  
+
+.flex-item {
+    width: 25%;
+    padding: 5px 0;
+    margin-left: 0;
+    font-size: 14px;
+    font-family: 'Prompt', sans-serif;
+}
+
+img {
+    padding: 10px;
+    max-width: 290px;
+    border-radius: 20px;
+}
+
+.restaurants-item-name {
+    padding-left: 10px;
+    padding-top: 1px;
+    line-height: 20px;
+}
+
+.restaurants-item-type {
+    padding-left: 10px;
+    padding-bottom: 70px;
+}
